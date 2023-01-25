@@ -1,3 +1,20 @@
 {
-    "usuarios":[]
+    "usuariosDocente":[
+        {
+            "nombre": "Pedro",
+            "apellido": "Pascal",
+            "username": "pedropascal",
+            "password": "pedropascal123",
+            "edad": "47",
+            "asignatura": "Matematicas"
+        },
+        {
+            "nombre": "Isaac",
+            "apellido": "Newton",
+            "username": "isaacnewton",
+            "password": "isaacnewton123",
+            "edad": "84",
+            "asignatura": "Fisica"
+        }
+    ]
 }
