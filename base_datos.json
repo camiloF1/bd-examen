@@ -1,6 +1,7 @@
 {
     "usuariosDocente":[
         {
+            "id": 1,
             "nombre": "Pedro",
             "apellido": "Pascal",
             "username": "pedropascal",
@@ -9,6 +10,7 @@
             "asignatura": "Matematicas"
         },
         {
+            "id": 2,
             "nombre": "Isaac",
             "apellido": "Newton",
             "username": "isaacnewton",
