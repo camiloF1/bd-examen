@@ -20,5 +20,19 @@
             "edad": "84",
             "asignatura": "Fisica"
         }
+    ],
+
+
+    "usuariosAlumno":[
+        {
+            "id": 1,
+            "nombre": "Camilo",
+            "apellido": "Flores",
+            "correo": "cami.floresl@duocuc.cl",
+            "username": "Cami.flores",
+            "password": "camiloflores123",
+            "edad": "21",
+            "carrera": "Analista Programador Computacional"
+        }
     ]
 }
